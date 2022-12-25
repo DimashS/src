@@ -1,4 +1,4 @@
-package com.JavaRush.Tasks.TasksWithArguments.FirtstTask;
+package com.JavaRush.Tasks.TasksWithArguments.FirtsTask;
 
 import java.text.DateFormat;
 import java.text.ParseException;

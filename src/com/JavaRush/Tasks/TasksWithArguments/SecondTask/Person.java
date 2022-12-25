@@ -1,4 +1,4 @@
-package com.JavaRush.Tasks.TasksWithArguments.FirtstTask;
+package com.JavaRush.Tasks.TasksWithArguments.SecondTask;
 
 import java.util.Date;
 
@@ -45,4 +45,3 @@ public class Person {
         this.birthDate = birthDate;
     }
 }
-
